@@ -6,3 +6,8 @@ Created using Javascript, HTML and CSS, this Wordle clone also provides options 
 <img src="https://user-images.githubusercontent.com/34701993/188786005-cc8530bb-1be9-457a-8774-9d499a6f965a.png" width="500" >
 
 # How to Get Started
+Once the project is cloned and opened in the desired IDE workspace, simply open the `index.html` file in the web browser and start playing.
+
+For using the API word list, **node.js** will be required for installing and running the API and local server.
+
+To begin run the command,
