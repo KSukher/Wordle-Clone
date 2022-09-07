@@ -8,8 +8,10 @@ Created using Javascript, HTML and CSS, this Wordle clone also provides options 
 # How to Get Started
 Once the project is cloned and opened in the desired IDE workspace, simply open the `index.html` file in the web browser and start playing.
 
-For using the API word list, **node.js** will be required for installing and running the API and local server.
+For using the API word list, [Node.js](https://nodejs.org/en/) will be required for installing and running the API and local server.
 
-To begin run the command,
+Once Node.js is installed, the API must be downloaded. For this project an API called [an-array-of-english-words](https://www.npmjs.com/package/an-array-of-english-words) was used for the extended word bank option. (Link provides all information on the API)
+
+To begin
 
 # How To Play
