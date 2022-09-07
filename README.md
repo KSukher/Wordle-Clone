@@ -11,3 +11,5 @@ Once the project is cloned and opened in the desired IDE workspace, simply open 
 For using the API word list, **node.js** will be required for installing and running the API and local server.
 
 To begin run the command,
+
+# How To Play
